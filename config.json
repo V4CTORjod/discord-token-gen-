@@ -1,0 +1,11 @@
+{
+    "invite": "",
+    "pfp_folder":"data/pfp",
+    "username": "data/username.txt",
+
+    "autosolver": "true",
+    "proxy": "notshell:GhsGtJSJ:74839",
+
+    "service": "random",
+    "output": "Tokens.txt"
+}
